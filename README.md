@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @LCereal
-- 👀 I’m interested in Bukkit plugin making
-- 🌱 I’m currently learning how to make fun plugins
-- 📫 How to reach me: Discord DMs: photosynthesis#0001
+
